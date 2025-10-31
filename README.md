@@ -2,6 +2,8 @@
 
 An intelligent trading agent that uses AI models to make automated trading decisions on the Lighter Protocol. The system includes a backend API, trading-agent dashboard, and AI-powered trading logic.
 
+![](https://github.com/abhishekthakur7/ai-trading-agent/blob/main/Demo.gif)
+
 ## Prerequisites
 
 - [Bun](https://bun.com) runtime
